@@ -5,7 +5,7 @@
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 
-![Banner](images/banner.png)
+![Banner](images/Banner.png)
 
 ---
 
